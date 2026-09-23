@@ -4,7 +4,7 @@ const products = [
         code: "A101",
         name: "Royal Printed Anarkali Suit",
         category: "anarkali",
-        price: 9499,
+        price: 5997,
         discount: 60,
 
         colors: [
@@ -35,7 +35,7 @@ const products = [
         code: "S101",
         name: "Elegant Mustard Yellow Printed Kurta Pant Set",
         category: "suit-set",
-        price: 4499,
+        price: 3497,
         discount: 60,
 
         colors: [
@@ -65,7 +65,7 @@ const products = [
     code: "L101",
     name: "Royal Teal Embroidered Lehenga",
     category: "lehenga",
-    price: 9499,
+    price: 8497,
     discount: 60,
     colors: [
         {
@@ -92,8 +92,8 @@ const products = [
     code: "SR103",
     name: "Vihan Art Green Texture Silk Blend Saree with Embellished Border",
     category: "saree",
-    price: 14999,
-    discount: 60,
+    price: 14997,
+    discount: 70,
     colors: [
         {
             name: "Green",
@@ -117,7 +117,7 @@ const products = [
     code: "L102",
     name: "Elegant Embroidered Lehenga",
     category: "lehenga",
-    price: 10499,
+    price: 10496,
     discount: 70,
     colors: [
         {
@@ -145,7 +145,7 @@ const products = [
     code: "A102",
     name: "Olive Green Embroidered Anarkali",
     category: "anarkali",
-    price: 10999,
+    price: 7996,
     discount: 70,
     colors: [
         {
@@ -173,8 +173,8 @@ const products = [
     code: "S108",
     name: "Elegant Vintage Beige Printed Suit Set with Chiffon Dupatta",
     category: "suit-set",
-    price: 6489,
-    discount: 60,
+    price: 4995,
+    discount: 70,
     colors: [
         {
             name: "Maroon Embroidered",
@@ -202,8 +202,8 @@ const products = [
     code: "SR103",
     name: "Vihan Art Pink Texture Silk Blend Saree with Embellished Border",
     category: "saree",
-    price: 14999,
-    discount: 60,
+    price: 14996,
+    discount: 70,
     colors: [
         {
             name: "Pink",
@@ -226,7 +226,7 @@ const products = [
     code: "L104",
     name: "Royal Blue Printed Lehenga",
     category: "lehenga",
-    price: 11599,
+    price: 6995,
     discount: 70,
     colors: [
         {
@@ -253,7 +253,7 @@ const products = [
     code: "S107",
     name: "Rust Embroidered Silk Blend A-line Suit Set",
     category: "suit-set",
-    price: 6999,
+    price: 4498,
     discount: 60,
     colors: [
         {
@@ -282,7 +282,7 @@ const products = [
     code: "A103",
     name: "Royal Blue Floral Anarkali",
     category: "anarkali",
-    price: 10499,
+    price: 5663,
     discount: 70,
     colors: [
         {
@@ -309,7 +309,7 @@ const products = [
     code: "A104",
     name: "Elegant Printed Anarkali Suit Set",
     category: "anarkali",
-    price: 7499,
+    price: 5330,
     discount: 70,
     colors: [
         {
@@ -336,8 +336,8 @@ const products = [
     code: "l105",
     name: "Elegant Mauve & Lavender Embroidered Lehenga Set",
     category: "lehenga",
-    price: 9499,
-    discount: 60,
+    price: 11330,
+    discount: 70,
     colors: [
         {
             name: "Elegant Mauve & Lavender",
@@ -363,7 +363,7 @@ const products = [
     code: "A105",
     name: "Royal Black Printed Anarkali Suit ",
     category: "anarkali",
-    price: 6499,
+    price: 5330,
     discount: 70,
     colors: [
         {
@@ -389,7 +389,7 @@ const products = [
     code: "A106",
     name: "Royal Pink & Baby Pink Printed Anarkali Suit ",
     category: "anarkali",
-    price: 6999,
+    price: 4998,
     discount: 60,
     colors: [
         {
@@ -416,8 +416,8 @@ const products = [
     code: "S102",
     name: "Elegant Rose Pink Printed Kurta Pant Set",
     category: "suit-set",
-    price: 4499,
-    discount: 60,
+    price: 4662,
+    discount: 70,
     colors: [
         {
             name: "Rose Pink",
@@ -442,8 +442,8 @@ const products = [
     code: "A107",
     name: "Elegant Ivory & Blush Pink Floral Anarkali Suit",
     category: "anarkali",
-    price: 5499,
-    discount: 60,
+    price: 5426,
+    discount: 65,
     colors: [
         {
             name: "Ivory & Blush Pink",
@@ -468,8 +468,8 @@ const products = [
     code: "A108",
     name: "Elegant Beige & Cream Floral Printed Anarkali Suit",
     category: "anarkali",
-    price: 6999,
-    discount: 60,
+    price: 5426,
+    discount: 65,
     colors: [
         {
             name: "Beige & Cream Floral",
@@ -494,8 +494,8 @@ const products = [
     code: "A115",
     name: "Naazira Maroon Print Anarkali Suit Set with Mul Cotton Dupatta",
     category: "anarkali",
-    price: 7849,
-    discount: 60,
+    price: 4663,
+    discount: 70,
     colors: [
         {
             name: "Maroon",
@@ -523,8 +523,8 @@ const products = [
     code: "S103",
     name: "Elegant Maroon Embroidered Kurta Palazzo Set",
     category: "suit-set",
-    price: 6399,
-    discount: 60,
+    price: 6663,
+    discount: 70,
     colors: [
         {
             name: "Maroon Embroidered",
@@ -549,8 +549,8 @@ const products = [
     code: "A116",
     name: "Zarima Red Print Anarkali Suit Set with Mul Cotton Dupatta",
     category: "anarkali",
-    price: 7849,
-    discount: 60,
+    price: 4663,
+    discount: 70,
     colors: [
         {
             name: "Maroon",
@@ -578,7 +578,7 @@ const products = [
     code: "A109",
     name: "Elegant Wine & Magenta Floral Anarkali Suit",
     category: "anarkali",
-    price: 6999,
+    price: 5426,
     discount: 65,
     colors: [
         {
@@ -604,8 +604,8 @@ const products = [
     code: "A110",
     name: "Elegant Mustard Yellow & Teal Floral Printed Anarkali Suit",
     category: "anarkali",
-    price: 7499,
-    discount: 60,
+    price: 6995,
+    discount: 70,
     colors: [
         {
             name: "Mustard Yellow & Teal",
@@ -630,8 +630,8 @@ const products = [
     code: "S104",
     name: "Elegant Ivory & Denim Blue Embroidered Kurta Set",
     category: "suit-set",
-    price: 4799,
-    discount: 60,
+    price: 3995,
+    discount: 70,
     colors: [
         {
             name: "Ivory & Denim Blue",
@@ -656,8 +656,8 @@ const products = [
     code: "A111",
     name: "Vihan - Royal Navy Blue & Maroon Printed Anarkali Suit",
     category: "anarkali",
-    price: 6199,
-    discount: 60,
+    price: 5426,
+    discount: 65,
     colors: [
         {
             name: "Navy Blue & Maroon",
@@ -682,8 +682,8 @@ const products = [
     code: "A112",
     name: "Elegant Rose Pink Embroidered Anarkali Suit",
     category: "anarkali",
-    price: 5999,
-    discount: 60,
+    price: 5663,
+    discount: 70,
     colors: [
         {
             name: "Rose Pink",
@@ -708,8 +708,8 @@ const products = [
     code: "A113",
     name: "Elegant Powder Blue Floral Embroidered Anarkali Suit",
     category: "anarkali",
-    price: 6299,
-    discount: 60,
+    price: 4663,
+    discount: 70,
     colors: [
         {
             name: "Powder Blue",
@@ -734,8 +734,8 @@ const products = [
     code: "l106",
     name: "Vihan - Royal Wine & Gold Embroidered Lehenga Set",
     category: "lehenga",
-    price: 7550,
-    discount: 60,
+    price: 6995,
+    discount: 70,
     colors: [
         {
             name: "Wine & Gold",
@@ -760,8 +760,8 @@ const products = [
     code: "l107",
     name: "Vihan - Royal Magenta & Navy Blue Embroidered Lehenga Set",
     category: "lehenga",
-    price: 8450,
-    discount: 60,
+    price: 8331,
+    discount: 70,
     colors: [
         {
             name: "Magenta & Navy Blue",
@@ -786,8 +786,8 @@ const products = [
     code: "S105",
     name: "Elegant Black & Maroon Printed Kurta Pant Set",
     category: "suit-set",
-    price: 4799,
-    discount: 60,
+    price: 5330,
+    discount: 70,
     colors: [
         {
             name: "Black & Maroon",
@@ -813,8 +813,8 @@ const products = [
     code: "S106",
     name: "Vihan Royal Maroon & Gold Embroidered Kurta Pant Set",
     category: "suit-set",
-    price: 4499,
-    discount: 60,
+    price: 4663,
+    discount: 70,
     colors: [
         {
             name: "Maroon & Gold",
@@ -840,8 +840,8 @@ const products = [
     code: "A114",
     name: "Elegant Lavender Purple Embroidered Anarkali Suit",
     category: "anarkali",
-    price: 3999,
-    discount: 60,
+    price: 4663,
+    discount: 70,
     colors: [
         {
             name: "Lavender Purple",
@@ -867,8 +867,8 @@ const products = [
     code: "SR102",
     name: "Vihan Red Ethnic Motifs Woven Design Silk Blend Saree with Unstitched Blouse Piece",
     category: "saree",
-    price: 4399,
-    discount: 40,
+    price: 5996,
+    discount: 70,
     colors: [
         {
             name: "Red",
@@ -891,8 +891,8 @@ const products = [
     code: "SR101",
     name: "Vihan Royal Blue Floral Saree",
     category: "saree",
-    price: 4099,
-    discount: 40,
+    price: 5996,
+    discount: 70,
 
     colors: [
         {
