@@ -2910,7 +2910,7 @@ Please confirm my order.`;
 
 
             const whatsappNumber =
-                "917269016898";
+                "917269016989";
 
 
             const whatsappURL =
